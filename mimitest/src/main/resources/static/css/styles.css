@@ -1,0 +1,32 @@
+body {
+    font-family: Geneva, Helvetica, Arial, sans-serif;
+}
+
+span {
+    text-decoration: underline;
+    color: blue;
+    cursor:pointer;
+}
+
+img {
+    cursor:pointer;
+    width: 250px;
+    height: 230px;
+}
+
+.my-list {
+    display: inline-block;
+    margin: 10px 30px;
+}
+
+.h_wrapper, .test {
+    text-align: center;
+}
+
+#images img {
+    margin: 5px 10px;
+    width: 200px;
+    height: 180px;
+}
+
+
